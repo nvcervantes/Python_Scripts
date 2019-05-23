@@ -7,7 +7,7 @@
 # python script
 
 
-import pandas as pd
+import pandas as  pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
