@@ -1,3 +1,8 @@
+#==========================================
+# Author: Shierene Cervantes
+#==========================================
+# python script
+
 import pandas as pd
 tr_data = pd.read_csv('categorization_data.csv', encoding="latin1")
 
