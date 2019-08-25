@@ -1,5 +1,4 @@
 #==========================================
-# Title:  Ticket Categorization for Citi
 # Author: Shierene Cervantes
 # Created:   7 Jan 2019
 # Last Modified: 22 Feb 2019
