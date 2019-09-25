@@ -1,3 +1,8 @@
+#==========================================
+# Author: Shierene Cervantes
+#==========================================
+# python script
+
 import pandas as pd
 import numpy as np
 import pylab as pl
